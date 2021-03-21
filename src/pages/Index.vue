@@ -1,7 +1,8 @@
 <template>
   <Layout>
-
-    Geil
+    <div class="text-xl text-white">
+      alter vatter
+    </div>
   </Layout>
 </template>
 
